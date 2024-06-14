@@ -4,7 +4,7 @@ import Charts from "./Charts";
 const Dashboard = () => {
   return (
     <div className="h-screen flex overflow-hidden bg-gray-900 text-white ">
-      <div className="flex flex-col w-34 bg-gray-800 ">
+      <div className="flex flex-col w-24 bg-gray-800 ">
         <div className="flex items-center justify-center h-16 bg-gray-900 text-white">
           <div className="w-auto h-auto">
             <img
