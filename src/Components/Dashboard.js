@@ -240,7 +240,7 @@ const Dashboard = () => {
             </button>
           </div>
         </header>
-        <main className="flex flex-col overflow-y-auto md:overflow-x-hidden  ">
+        <main className="flex flex-col overflow-y-auto  ">
           <div className="bg-gray-700 h-auto flex items-center justify-center text-4xl">
             <div classname="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 text-6xl mb-8">
               <Charts />

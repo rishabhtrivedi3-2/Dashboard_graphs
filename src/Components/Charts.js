@@ -57,7 +57,7 @@ const AlertLineChart = () => {
 
 const Charts = () => {
   return (
-    <main className="flex-grow md:overflow-x-hidden sm:overflow-x-hidden p-3 ">
+    <main className="flex-grow  p-3 ">
       <AlertLineChart data={eve} />
       <PieChart />
 
